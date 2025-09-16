@@ -21,9 +21,6 @@ This STEAM curriculum integrates robotics with Grades 1 to 5 learning, combining
 
 <img width="2000" height="965" alt="White Beige Minimalist Photo Collage Wraparound Mug (1)" src="https://github.com/user-attachments/assets/dca6cfc6-9bf5-408c-bd52-ed9c3d87022a" />
   
-### Resources
-
-<img width="646" height="372" alt="Screenshot 2025-09-15 223803" src="https://github.com/user-attachments/assets/4f90c6a7-c6a5-4f0a-961c-ac2e890a73a9" />
-<img width="652" height="373" alt="Screenshot 2025-09-15 223817" src="https://github.com/user-attachments/assets/38e95c05-786b-4126-a141-90c916a9e210" />
-<img width="650" height="371" alt="Screenshot 2025-09-15 223834" src="https://github.com/user-attachments/assets/b60f1607-de4e-4d4e-bad0-6574a0f9f745" />
-<img width="655" height="378" alt="Screenshot 2025-09-15 223848" src="https://github.com/user-attachments/assets/60b7adbe-9a27-4bf5-9c7c-5994dae86487" />
+### FInal Deliverables
+<img width="582" height="515" alt="Teacher Resources" src="https://github.com/user-attachments/assets/2e21f15e-77a0-4d86-83bb-14cc1e2e7d10" />
+Note: The original training documents are protected under an NDA and cannot be shared publicly; further details are available upon request.
